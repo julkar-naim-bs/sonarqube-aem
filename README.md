@@ -34,5 +34,7 @@ Make sure you are using **JDK-11** for building the project. Change **JDK** from
 
 Now, run this maven config. Analysis reports will be automatically uploaded to sonarqube server **localhost:9000**
 
+Remove \ from the **Run** command if you get any build error
+
 Go to **localhost:9000** for sonarqube analysis report
 
