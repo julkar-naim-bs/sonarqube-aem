@@ -5,7 +5,7 @@ $ docker pull sonarqube:9.9.1-community
 ```
 Create the docker container
 ```bash
-$ docker create --name sonarqube -p 9000:900 sonarqube:9.9.1-community
+$ docker create --name sonarqube -p 9000:9000 sonarqube:9.9.1-community
 ```
 Start the docker container
 ```bash
